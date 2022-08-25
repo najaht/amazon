@@ -1,0 +1,514 @@
+body{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+#main{
+  /* display: flex; */
+}
+#amaz{
+  background-color: black;
+  height: 60px;
+  width: 100%;
+  display: flex;
+  box-sizing: border-box;
+}
+#logo{
+ width: 90px;
+
+}
+#nigeria{
+  color: white;
+  margin-left: 20px;
+ margin-top: 8px;
+ color: whitesmoke
+}
+#in{
+  height: 30px;
+  width: 900px;
+  margin-top: 14px;
+  margin-left: 20px;
+}
+  
+#all{
+  color: white;
+ margin-left: 77px;
+}
+#hi{
+  color: white;
+  font-size: 16px;
+  position: absolute;
+  padding-top: 14px;
+  margin-left: 1179px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+#ame{
+  width: 25px;
+  height: 17px;
+  margin-top: 27px;
+  margin-left: 1127px;
+  position: absolute;
+}
+#ii{
+  position: absolute;
+margin-left: 47px;
+  color: white;
+  
+
+}
+#pink{
+  color: black;
+  position: absolute;
+  margin-left: 1070px;
+  margin-top: 25px;
+}
+#arrow{
+  position: absolute;
+  color: blue;
+  margin-left: 1154px;
+  margin-top: 29px;
+  color: white;
+}
+#cart{
+  margin-left: 170px;
+}
+#plo{
+  color: white;
+  position: absolute;
+  margin-left: 1480px;
+  font-size: 20px;
+}
+#head1{
+  display: flex;
+}
+#body1{
+  background-image: linear-gradient( to right, black,blue);
+  height: 40px;
+  width: 100%;
+  margin-bottom: 5px;
+  box-sizing: border-box;
+}
+#ww{
+  position: absolute;
+  margin-left: 23px;
+  margin-top: 15px;
+  font-size: 18px;
+}
+#reg{
+  display: flex;
+  list-style: none;
+}
+li{
+  margin-left: 30px;
+}
+a:hover{
+  text-decoration: underline;
+}
+#head2{
+  background-image: linear-gradient(to left, black,  blue);
+  width: 94%;
+  height: 470px;
+  margin-left: 48px;
+  margin-top: 0px;
+}
+#image1{
+  height: 60px;
+  margin-left: 650px;
+  margin-top: 60px;
+}
+#new{
+  font-size: 45px;
+  color: white;
+  margin-left: 470px;
+  margin-top: 15px;
+  position: absolute;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#free{
+  color: cornflowerblue;
+  font-size: 45px;
+  margin-top: 65px;
+  margin-left: 565px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#yo{
+  color: white;
+  font-size: 23px;
+  position: absolute;
+  margin-top: -40px;
+  margin-left: 440px;
+
+
+}
+#car{
+  color: white;
+  font-size: 20px;
+  margin-left: 486px;
+  margin-top: 10px;
+  position: absolute;
+}
+#ex{
+  color: white;
+  font-size: 22px;
+  margin-left: 620px;
+  text-decoration: underline;
+  margin-top: 45px;
+  position: absolute;
+}
+#are{
+  color: white;
+  position: absolute;
+  margin-top: 119px;
+  font-size: 20px;
+  margin-left: 1255px;
+  text-decoration: underline;
+}
+#re{
+  color: white;
+  position: absolute;
+  margin-top: 145px;
+  margin-left: 1150px;
+  text-decoration: underline;
+  font-size: 20px;
+}
+button{
+  position: absolute;
+  background-color: darkorange;
+  padding-left: 38px;
+  padding-right: 38px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  margin-left: 570px;
+  margin-top: 85px;
+  font-size: 18px;
+  font-family:Arial, Helvetica, sans-serif;
+  
+}
+button a{
+  color: midnightblue;
+}
+#zee{
+  display: flex;
+}
+#de{
+  font-size: 40px;
+  color: dodgerblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  margin-left: 600px;
+}
+#options{
+  height: 150px;
+  margin-left: 200px;
+  margin-top: -40px;
+  position: absolute;
+}
+#con{
+  color: dodgerblue;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 165px;
+  margin-left: 230px;
+}
+#en{
+  font-size: 18px;
+  margin-left: 150px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#k{
+  font-size: 18px;
+  margin-left: 189px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-top: -15px;
+}
+#img{
+  height: 150px;
+  margin-top: 110px;
+  margin-left: -300px;
+}
+#p{
+  color: dodgerblue;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: -225px;
+  margin-top: -1px;
+  margin-top: 5px;
+}
+#dd{
+  font-size: 18px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-left: -350px;
+  margin-top: -3px;
+  
+}
+#impo{
+  height: 150px;
+  margin-top: 110px;
+  margin-left: 155px;
+}
+#dayy{
+ color: dodgerblue;
+ font-size: 20px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ position: absolute;
+ margin-left: 220px;
+ margin-top: -2px;
+ margin-top: 8px;
+}
+#rem{
+  font-size: 18px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-top: 45px;
+  margin-left: 80px;
+}
+#ng{
+  height: 50px;
+  margin-left: 400px;
+  margin-top: 20px;
+}
+#look{
+  margin-left: 530px;
+  margin-top: -38px;
+  font-size: 20px;
+}
+#main2{
+  display: flex;
+
+}
+#main2{
+  background-color:gainsboro;
+  height: 950px;
+  width: 94%;
+  box-sizing: border-box;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+#movies{
+  color: dodgerblue;
+  font-size: 40px;
+  font-family:Arial, Helvetica, sans-serif;
+ margin-left: 500px;
+ font-weight: bolder;
+}
+#release{
+  margin-left: 480px;
+  font-size: 21px;
+  margin-top: -32px;
+  
+}
+#love{
+  font-size: 21px;
+  margin-left: 630px;
+  margin-top: -18px;
+  
+}
+#coming{
+  margin-left: 225px;
+}
+#ad{
+  color: dodgerblue;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 600px;
+  font-weight: bolder;
+  
+}
+#of{
+  font-size: 21px;
+  margin-left: 460px;
+  margin-top: -30px;
+
+}
+#mus{
+  font-size: 21px;
+  margin-left: 660px;
+  margin-top: -15px;
+}
+#county{
+  height: 290px;
+  margin-left: 300px;
+
+}
+#sole{
+  display: flex;
+}
+#jj{
+  color: dodgerblue;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 600px;
+  margin-top: 20px;
+}
+#ga{
+  height: 90px;
+  margin-left: -300px;
+}
+#game{
+  color: dodgerblue;
+  font-size: 21px;
+  margin-left: -330px;
+  margin-top: -7px;
+}
+#cha{
+  color: black;
+  font-size: 19px;
+  margin-left: -420px;
+  font-weight: 500;
+  margin-top: -15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#deals{
+  margin-top: -1400px;
+}
+#top{
+  margin-top:132px;
+  margin-left: -200px;
+  height: 90px;
+}
+#sive{
+  color: dodgerblue;
+  position: absolute;
+  font-size: 21px;
+  margin-left: -220px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin-top: -6px;
+}
+#ama{
+  font-size: 19px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: -290px;
+  margin-top: 28px;
+  
+}
+#am{
+  font-size: 19px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: -150px;
+  margin-top: -15px;
+}
+#savings{
+  height: 90px;
+  margin-left: 200px;
+  margin-top: 135px;
+}
+#never{
+  color: dodgerblue;
+  font-size: 21px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  
+  margin-left: 200px;
+  margin-top: -8px;
+}
+#pres{
+  font-size: 19px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 150px;
+  margin-top: -12px;
+}
+#wal{
+  font-size: 19px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 90px;
+  margin-top: -16px;
+}
+#pharm{
+  font-size: 19px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 155px;
+  margin-top: -15px;
+}
+#bob{
+  display: flex;
+}
+#reading{
+  height: 90px;
+  margin-top: 20px;
+  margin-left: 300px;
+}
+#ff{
+  color: dodgerblue;
+  font-size: 21px;
+  margin-left: 270px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: -10px;
+}
+#hun{
+  font-size: 19px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 220px;
+  margin-top: -16px;
+}
+#more{
+  margin-left: -22px;
+}
+#site{
+  height: 90px;
+  margin-left: 240px;
+  margin-top: 20px;
+}
+#sim{
+  color: dodgerblue;
+  font-size: 21px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 220px;
+  margin-top: -8px;
+}
+#enjoy{
+  font-size: 19px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 140px;
+  margin-top: -15px;
+}
+#store{
+  margin-left: 120px;
+}
+#nance{
+  height: 90px;
+  margin-left: 220px;
+  margin-top: 20px;
+}
+#tami{
+  color: dodgerblue;
+  font-size: 21px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: -75px;
+  margin-top: -13px;
+}
+#gab{
+  font-size: 19px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: -120px;
+  margin-top: -15px;
+}
+#bro{
+  margin-left: 57px;
+}
+#annual{
+  background-image: url(../image/desktop.png);
+  height: 350px;
+  width: 100%;
+  background-repeat: no-repeat;
+}
+#tt{
+  background-image: linear-gradient(black,blue);
+  margin-top: 20px;
+}
